@@ -1,0 +1,11 @@
+Department		Applications Recieved	Applicants in Percentage
+----------		---------------------	------------------------
+Computer Science:		5			50
+Textile Engineering:		3			30
+Textile Design:			2			20
+Management Science:		0			0
+
+
+Total Applications:		10
+
+Department of Computer Science is at top with 5 applications.
